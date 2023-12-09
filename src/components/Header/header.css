@@ -1,0 +1,27 @@
+header {
+  background-color: #2d2a47;
+}
+
+header .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header .navbar .logo {
+  margin: 0 auto;
+}
+
+header .navbar .logo img {
+  width: 150px;
+  height: 100px;
+}
+
+header .navbar .icon{
+  color: aliceblue;
+  font-size: 28px;
+}
+
+header .navbar .icon:hover{
+  cursor: pointer;
+}

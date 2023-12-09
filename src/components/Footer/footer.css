@@ -1,0 +1,112 @@
+
+
+footer
+{
+    height: 220px;
+    background-color: #2d2a47;
+}
+
+footer .content
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 150px;
+}
+
+
+footer .content .left-side h3{
+    font-size: 24px;
+    color: #f7d58d;
+}
+
+footer .content .left-side p{
+    color: #ffffff;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+footer .content .right-side h2{
+    color: #f7d58d;
+}
+
+footer .content .right-side .icon-side{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .content .right-side .icon-side .insta-icon{
+    font-size: 28px;
+    color: #ffffff;
+    margin-left: 20px;
+}
+
+footer .content .right-side .icon-side .whats-icon
+{
+    font-size: 28px;
+    color: #ffffff;
+    margin-right: 20px;
+}
+
+footer .line{
+    border: 1px solid rgb(75, 183, 237);
+    width: 500px;
+    margin: auto;
+}
+
+footer  p{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
+
+@media (max-width: 1000px){
+    footer .content .left-side{
+        margin-left: 28px;
+    }
+    footer .content .right-side{
+        margin-right: 28px;
+    }
+
+}
+
+@media (max-width: 600px){
+    footer .content .left-side{
+        max-width: 200px;
+        margin-left: 18px;
+    }
+
+    footer .content .left-side h3{
+        font-size: 20px;
+    }
+
+    footer .content .left-side p{
+        font-size: 14px;
+    }
+
+    footer .content .right-side{
+        margin-right: 18px;
+    }
+
+    footer .content .right-side h2{
+        font-size: 20px;
+    }
+
+    footer .content .right-side .icon-side .insta-icon{
+        font-size: 24px;
+    }
+
+
+    footer .content .right-side .icon-side .whats-icon{
+        font-size: 24px;
+    }
+
+    footer .line{
+        width: 250px;
+    }
+
+    footer p{
+        font-size: 14px;
+    }
+} 
