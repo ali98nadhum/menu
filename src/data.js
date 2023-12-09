@@ -43,7 +43,7 @@ export const item = [
   {
     id: 2,
     title: "وافل",
-    img: "/src/assets/waffi.png",
+    img: "/src/assets/fast-food.png",
     info: {
       item1: {
         price: {
@@ -68,7 +68,7 @@ export const item = [
   {
     id: 3,
     title: "كريبات",
-    img: "/src/assets/crepe.jpg",
+    img: "/src/assets/fast-food.png",
     info: {
       item1: {
         price: {
@@ -91,7 +91,7 @@ export const item = [
   {
     id: 4,
     title: "بان كيك",
-    img: "/src/assets/pan-cake.png",
+    img: "/src/assets/fast-food.png",
     info: {
       item1: {
         price: {
@@ -120,7 +120,7 @@ export const item = [
   {
     id: 5,
     title: "نراكيل",
-    img: "/src/assets/hoka.jpg",
+    img: "/src/assets/fast-food.png",
     info: {
       item1: {
         price: {
@@ -141,7 +141,7 @@ export const item = [
   {
     id: 6,
     title: "العصائر",
-    img: "/src/assets/juice.png",
+    img: "/src/assets/fast-food.png",
     info: {
       item1: {
         price: {
@@ -216,7 +216,7 @@ export const item = [
   {
     id: 7,
     title: "مشروبات ساخنه",
-    img: "/src/assets/hot-drinks.png",
+    img: "/src/assets/fast-food.png",
     info: {
       item1: {
         price: {
@@ -249,7 +249,7 @@ export const item = [
   {
     id: 8,
     title: "الموهيتو",
-    img: "/src/assets/moheto.png",
+    img: "/src/assets/fast-food.png",
     info: {
       item1: {
         price: {
@@ -284,7 +284,7 @@ export const item = [
   {
     id: 9,
     title: "ايس كوفي",
-    img: "/src/assets/ice-coffee.avif",
+    img: "/src/assets/fast-food.png",
     info: {
       item1: {
         price: {
